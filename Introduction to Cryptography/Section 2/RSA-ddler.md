@@ -37,6 +37,19 @@ Output using brainfck: `JJFEKVCFKZFVES2KJJLE2UZSJ5EUUS2VGJKVEU2KLJDUKVKUINDESNKM
 Base32 Decode 4 times:
 `srropjskcxx`
 
+Now Decode using Vigenere cipher with key = "KEY" (https://www.dcode.fr/vigenere-cipher) to get
+`intelligent`
+as the zip password.
+
+Use this hint to get all the `d`/`e` pairs. You will not be able to determine the `0th` pair.
+
+```Suppose the index of the private key is i, then it has been calculated by solving the congruence
+(e**i)*d==1 modulo phi where e,d,phi are the ith elements of their list respectively.
+example: d[2] would be calculated as (e[2]**2)*d[2]==1 modulo phi[2] and so on.```
+
+Now, start reversing the algo using standard analysis (XOR reversible etc) by nothing that the first 4 characters of the flag are know - `YoS{`
+
+Flag : YoS{cr7pt0_1$_s0_mU3h_fUn_r1ght}
 
 
 
