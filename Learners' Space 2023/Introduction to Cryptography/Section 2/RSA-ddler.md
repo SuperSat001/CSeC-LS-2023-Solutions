@@ -37,8 +37,6 @@ Output using brainfck: `JJFEKVCFKZFVES2KJJLE2UZSJ5EUUS2VGJKVEU2KLJDUKVKUINDESNKM
 Base32 Decode 4 times:
 `srropjskcxx`
 
-Flag:
-`YoS{srropjskcxx}`
 
 
 
