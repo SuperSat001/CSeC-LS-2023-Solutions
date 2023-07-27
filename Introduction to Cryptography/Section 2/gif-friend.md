@@ -52,7 +52,7 @@ for n in range(1, 19+x):
 i.save(f"flag_{x}/merged{x}.png")
 ```
 
-![https://i.imgur.com/MoSuOAv.png][merged-gifs]
+![https://i.imgur.com/MoSuOAv.png](merged-gifs)
 
 Now, use ROT47 on obtained text (ASCII printable characters) to get 2 sets of RSA ciphers.
 
