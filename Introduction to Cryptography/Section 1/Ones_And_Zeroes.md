@@ -15,4 +15,6 @@ print(morse_text)
 ```
 https://cryptii.com/pipes/morse-code-to-text
 
-Flag: `_behind_every_code_is_an_enigma`
+Use the timing mode, with signal off = "." and signal on = "="
+
+Flag: `behind_every_code_is_an_enigma`

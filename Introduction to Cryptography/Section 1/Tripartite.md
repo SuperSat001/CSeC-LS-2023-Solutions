@@ -29,6 +29,4 @@ https://www.boxentriq.com/code-breaking/columnar-transposition-cipher
 output:
 `as to what the encryption scheme used is`
 
-![[Pasted image 20230715002529.png]]
-
 Full Flag: `classical_encryptions_often_involve_a_lot_of_guesses_as_to_what_the_encryption_scheme_used_is`
